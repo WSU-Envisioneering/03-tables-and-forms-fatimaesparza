@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    
+}
+section{
+    text-align: center;
+    background-color: rgb(173, 191, 243) ;
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 3px 4px 5px black;
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+}
